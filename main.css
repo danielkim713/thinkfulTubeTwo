@@ -1,0 +1,11 @@
+img {
+	border-radius: 10px;
+}
+
+.container {
+	text-align: center;
+}
+
+.js-search-results {
+	text-align: left;
+}
